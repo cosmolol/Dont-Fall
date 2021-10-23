@@ -1,1 +1,1 @@
-# Dont-Fall
+Controls- W A S D, are the movement controls (W forward, A left, S backward, D right). To jump use space. Try to get from the start to end. Blue tiles allow you to walk, pink tiles will make you bounce. But remember... Don't Fall!
